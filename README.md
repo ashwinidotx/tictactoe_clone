@@ -1,6 +1,6 @@
 # tictactoeclone
 
-A new Flutter application.
+A new TicTacToe Clone made with Flutter framework.
 
 ## Getting Started
 
